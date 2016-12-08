@@ -1,0 +1,28 @@
+{
+  "name": "node-schedule-synced",
+  "version": "0.0.1",
+  "description": "Synced cron scheduler for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iudelsmann/node-schedule-synced.git"
+  },
+  "keywords": [
+    "cron",
+    "job",
+    "schedule",
+    "synced",
+    "cluster",
+    "redis",
+    "multiprocess"
+  ],
+  "author": "Ivo Udelsmann iudelsmann@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iudelsmann/node-schedule-synced/issues"
+  },
+  "homepage": "https://github.com/iudelsmann/node-schedule-synced#readme"
+}
