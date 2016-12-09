@@ -24,5 +24,16 @@
   "bugs": {
     "url": "https://github.com/iudelsmann/node-schedule-synced/issues"
   },
-  "homepage": "https://github.com/iudelsmann/node-schedule-synced#readme"
+  "homepage": "https://github.com/iudelsmann/node-schedule-synced#readme",
+  "dependencies": {
+    "cron-parser": "^2.2.2",
+    "lodash": "^4.17.2",
+    "node-schedule": "^1.2.0",
+    "redis-lock": "^0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.11.1",
+    "eslint-config-airbnb-base": "^10.0.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
 }
